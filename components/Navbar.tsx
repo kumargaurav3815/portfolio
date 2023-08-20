@@ -3,7 +3,7 @@
 import Image from "next/image";
 import logo from "../public/assets/images/logo.png";
 import Link from "next/link";
-import transitions from "@material-ui/core/styles/transitions";
+
 const Navbar = () => {
   return (
     <div className="width-full shadow-navbarShadow h-20 lg:h-[12vh] sticky top-0 z-50 bg-bodyColor px-4">
