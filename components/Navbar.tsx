@@ -1,7 +1,6 @@
 /** @format */
 
 import Image from "next/image";
-import { motion } from "framer-motion";
 import logo from "../public/assets/images/logo.png";
 import Link from "next/link";
 import transitions from "@material-ui/core/styles/transitions";
